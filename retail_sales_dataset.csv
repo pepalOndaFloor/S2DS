@@ -1,0 +1,16 @@
+Transaction ID,Date,Customer ID,Product Category,Product Name,Quantity,Price per Unit,Total Amount
+1,2023-01-01,CUST001,Beauty,Shampoo,2,50,100
+2,2023-01-02,CUST002,Clothing,T-Shirt,1,500,500
+3,2023-01-03,CUST003,Electronics,Headphones,1,1000,1000
+4,2023-01-04,CUST004,Beauty,Lipstick,2,300,600
+5,2023-01-05,CUST005,Clothing,Jeans,1,1200,1200
+6,2023-01-06,CUST006,Electronics,Smartphone,1,15000,15000
+7,2023-01-07,CUST007,Beauty,Face Cream,1,450,450
+8,2023-01-08,CUST008,Clothing,Jacket,1,2000,2000
+9,2023-01-09,CUST009,Electronics,Keyboard,1,800,800
+10,2023-01-10,CUST010,Beauty,Shampoo,1,50,50
+11,2023-01-11,CUST011,Clothing,T-Shirt,2,500,1000
+12,2023-01-12,CUST012,Electronics,Headphones,2,1000,2000
+13,2023-01-13,CUST013,Beauty,Lipstick,1,300,300
+14,2023-01-14,CUST014,Clothing,Jeans,2,1200,2400
+15,2023-01-15,CUST015,Electronics,Smartphone,1,15000,15000
